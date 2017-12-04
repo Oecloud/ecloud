@@ -5,19 +5,21 @@ var data = {
         'kbs': '2M',
         'city': {
             'beijingJson':{
-                'ucloud': 185,
+                'ucloud': 126,
                 'aliyun': 96,
-                'tecentyun': 0,
+                'tecentyun': 125,
                 'jinshan': 111
             },
-            'beijing': [185,96,0,111],
+            'beijing': [126,96,125,111],
+
             'shanghaiJson':{
-                'ucloud': 185,
+                'ucloud': 126,
                 'aliyun': 96,
                 'tecentyun': 0,
                 'jinshan': 111
             },
             'shanghai': [220,270,240,200],
+
             'guangzhouJson':{
                 'ucloud': 185,
                 'aliyun': 96,
@@ -25,6 +27,7 @@ var data = {
                 'jinshan': 111
             },
             'guangzhou': [220,270,240,200],
+
             'chengdouJson':{
                 'ucloud': 185,
                 'aliyun': 96,
