@@ -1,5 +1,5 @@
 var data = {
-    '2g':{
+    'twog':{
         'cpu':'1c',
         'mem': '2g',
         'bandwidth': '2M',
@@ -37,7 +37,7 @@ var data = {
             'chengdu': [220,270,240,200],
         }
     },
-    '4g':{
+    'fourg':{
         'cpu':'4c',
         'mem': '4g',
         'bandwidth': '5M',
@@ -72,7 +72,7 @@ var data = {
             'chengdu': [220,270,240,200],
         }
     },
-    '8g':{
+    'eightg':{
         'cpu':'4c',
         'mem': '8g',
         'bandwidth': '10M',
